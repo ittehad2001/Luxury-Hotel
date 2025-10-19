@@ -2,6 +2,23 @@
 
 A modern, responsive hotel booking system built with Laravel 11, featuring room management, booking functionality, and an admin panel. This system provides a complete solution for hotel reservations with dynamic pricing, availability management, and a beautiful user interface.
 
+# Screenshots
+
+User Part:
+
+<img width="1908" height="880" alt="Screenshot 2025-10-19 181120" src="https://github.com/user-attachments/assets/7dd7c5d0-da7e-4f4d-8012-75b0653b30df" />
+<img width="1920" height="880" alt="Screenshot 2025-10-19 181130" src="https://github.com/user-attachments/assets/8ac6a371-7454-4ef0-b849-896f7e9ccf40" />
+<img width="1920" height="3143" alt="Screenshot 2025-10-19 170241" src="https://github.com/user-attachments/assets/b7f9de50-7da7-4a6e-8b19-2a09cff8ed92" />
+<img width="1920" height="1545" alt="FireShot Capture 031 - Find My Booking - Luxury Hotel -  127 0 0 1" src="https://github.com/user-attachments/assets/d0cb2aaf-18a8-45b2-8bd8-2079ad69e42f" />
+
+Admin Part:
+
+<img width="1920" height="885" alt="Screenshot 2025-10-19 181643" src="https://github.com/user-attachments/assets/09f49024-655c-445f-9521-6223af1c4820" />
+<img width="1920" height="881" alt="Screenshot 2025-10-19 181136" src="https://github.com/user-attachments/assets/a4828bf4-efb7-486b-8ffa-42d49b43753f" />
+<img width="1920" height="876" alt="Screenshot 2025-10-19 181142" src="https://github.com/user-attachments/assets/f43c4c2b-ce0e-4989-b6f0-0fac92ce5ee6" />
+<img width="1920" height="886" alt="Screenshot 2025-10-19 181146" src="https://github.com/user-attachments/assets/7d7599c7-2e4c-4cf3-bd31-9761dfc677e8" />
+
+
 ## ✨ Features
 
 ### 🎯 Core Features

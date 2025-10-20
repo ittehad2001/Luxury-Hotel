@@ -86,7 +86,10 @@
                             <button onclick="openAddModal()" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium">Add Room Category</button>
                             <span class="text-sm text-gray-600">{{ now()->format('M d, Y') }}</span>
                             <span class="text-sm font-medium text-gray-900">Hotel Admin</span>
-                            <a href="{{ route('admin.logout') }}" class="text-red-600 hover:text-red-700 text-sm font-medium">Logout</a>
+                            <form method="POST" action="{{ route('admin.logout') }}" class="inline">
+                                @csrf
+                                <button type="submit" class="text-red-600 hover:text-red-700 text-sm font-medium">Logout</button>
+                            </form>
                         </div>
                     </div>
                 </div>

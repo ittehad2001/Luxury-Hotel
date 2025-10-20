@@ -141,8 +141,10 @@ The application will be available at `http://127.0.0.1:8000`
 
 The seeder creates:
 - **3 Room Categories**: Premium Deluxe (৳12,000), Super Deluxe (৳10,000), Standard Deluxe (৳8,000)
-- **1 Admin User**: admin@example.com / password
+- **1 Admin User**: admin@hotel.com
+- **Password**: admin123
 - **Room Availability**: 3 rooms per category per day
+
 
 ## 🎯 Usage Guide
 
@@ -155,7 +157,7 @@ The seeder creates:
 
 ### For Administrators
 
-1. **Login**: Use admin@example.com / password
+1. **Login**: Use admin@hotel.com / admin123
 2. **Dashboard**: View booking statistics and recent activity
 3. **Manage Bookings**: View, confirm, or cancel bookings
 4. **Room Management**: Add, edit, or delete room categories
@@ -304,25 +306,7 @@ if ($totalNights >= 3) {
    npm run build
    ```
 
-## 📝 License
 
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## 📞 Support
-
-For support and questions:
-
-- **Email**: support@hotelbooking.com
-- **Documentation**: [Project Wiki](https://github.com/your-username/hotel-booking-system/wiki)
-- **Issues**: [GitHub Issues](https://github.com/your-username/hotel-booking-system/issues)
 
 ## 🙏 Acknowledgments
 
